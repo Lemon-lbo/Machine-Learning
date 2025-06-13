@@ -23,3 +23,4 @@ We implemented two versions of the code, evaluated their performance, and select
 - The assignment was completed as part of the *Data Mining and Machine Learning (DMML)* course offered at CMI.
 - **Contributors**: This solution was prepared jointly by [Trishita](https://github.com/Lemon-lbo/) and [Sowmya](https://github.com/Sowmya0667)
 - **Dataset**: [UCI Bag of Words](https://archive.ics.uci.edu/ml/datasets/Bag+of+Words)
+- This assignment was originally done on February 2025.
